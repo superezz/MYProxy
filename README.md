@@ -1,4 +1,4 @@
-# 🚀 AutoApply AI - Complete Platform Ideology
+# 🚀 Proxy AI - Complete Platform Ideology
 
 > **Vision**: An intelligent job application automation platform that optimizes resumes, matches opportunities, and tracks career progression using AI.
 
